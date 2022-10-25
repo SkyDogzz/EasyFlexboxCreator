@@ -1,3 +1,10 @@
+import Form from "./Form.jsx";
+import Display from "./Display.jsx";
+
 export default function Main() {
-  return <p>Main</p>;
+  return;
+  <main>
+    <Form />
+    <Display />
+  </main>;
 }
